@@ -1,7 +1,7 @@
 [
   {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde01.jpg",
+    "image": "../img/showcase/blonde/cgblonde01.jpg",
     "categories": [
       "Crecimiento largo"
     ],
@@ -9,7 +9,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde02.jpg",
+    "image": "../img/img/showcase/blonde/cgblonde02.jpg",
     "categories": [
   "Profundidad"
     ],
@@ -17,7 +17,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde03.jpg",
+    "image": "../img/showcase/blonde/cgblonde03.jpg",
     "categories": [
       "Saturado"
     ],
@@ -25,7 +25,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde04.jpg",
+    "image": "../img/showcase/blonde/cgblonde04.jpg",
     "categories": [
   "Crecimiento corto"
     ],
@@ -33,7 +33,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde05.jpg",
+    "image": "../img/showcase/blonde/cgblonde05.jpg",
     "categories": [
       "Profundidad"
     ],
@@ -41,7 +41,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde06.jpg",
+    "image": "../img/showcase/blonde/cgblonde06.jpg",
     "categories": [
       "Saturado"
     ],
@@ -49,7 +49,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde07.jpg",
+    "image": "../img/showcase/blonde/cgblonde07.jpg",
     "categories": [
       "Saturado", "Crecimiento largo"
     ],
@@ -57,7 +57,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde08.jpg",
+    "image": "../img/showcase/blonde/cgblonde08.jpg",
     "categories": [
       "Saturado"
     ],
@@ -65,7 +65,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde09.jpg",
+    "image": "../img/showcase/blonde/cgblonde09.jpg",
     "categories": [
       "Saturado"
     ],
@@ -73,7 +73,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde10.jpg",
+    "image": "../img/showcase/blonde/cgblonde10.jpg",
     "categories": [
      "Crecimiento largo"
     ],
@@ -81,7 +81,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde11.jpg",
+    "image": "../img/showcase/blonde/cgblonde11.jpg",
     "categories": [
       "Saturado"
     ],
@@ -89,7 +89,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde12.jpg",
+    "image": "../img/showcase/blonde/cgblonde12.jpg",
     "categories": [
       "Saturado"
     ],
@@ -97,7 +97,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde13.jpg",
+    "image": "../img/showcase/blonde/cgblonde13.jpg",
     "categories": [
       "Saturado", "Crecimiento corto"
     ],
@@ -105,7 +105,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde14.jpg",
+    "image": "../img/showcase/blonde/cgblonde14.jpg",
     "categories": [
       "Crecimiento largo"
     ],
@@ -113,7 +113,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde15.jpg",
+    "image": "../img/showcase/blonde/cgblonde15.jpg",
     "categories": [
       "Saturado"
     ],
@@ -121,7 +121,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde16.jpg",
+    "image": "../img/showcase/blonde/cgblonde16.jpg",
     "categories": [
       "Saturado", "Crecimiento corto"
     ],
@@ -129,7 +129,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde17.jpg",
+    "image": "../img/showcase/blonde/cgblonde17.jpg",
     "categories": [
      "Profundidad"
     ],
@@ -137,7 +137,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde18.jpg",
+    "image": "../img/showcase/blonde/cgblonde18.jpg",
     "categories": [
       "Saturado"
     ],
@@ -145,7 +145,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde19.jpg",
+    "image": "../img/showcase/blonde/cgblonde19.jpg",
     "categories": [
       "Saturado"
     ],
@@ -153,7 +153,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../showcase/blonde/cgblonde20.jpg",
+    "image": "../img/showcase/blonde/cgblonde20.jpg",
     "categories": [
     "Profundidad"
     ],
@@ -163,7 +163,7 @@
 
 {
     "title": "Bronde",
-    "image": "../showcase/bronde/cgbronde01.jpg",
+    "image": "../img/showcase/bronde/cgbronde01.jpg",
     "categories": [
       "Saturado"
     ],
@@ -171,7 +171,7 @@
   },
 {
     "title": "Bronde",
-    "image": "../showcase/bronde/cgbronde02.jpg",
+    "image": "../img/showcase/bronde/cgbronde02.jpg",
     "categories": [
 "Profundidad"
     ],
@@ -179,7 +179,7 @@
   },
 {
     "title": "Bronde",
-    "image": "../showcase/bronde/cgbronde03.jpg",
+    "image": "../img/showcase/bronde/cgbronde03.jpg",
     "categories": [
       "Saturado"
     ],
@@ -187,7 +187,7 @@
   },
 {
     "title": "Bronde",
-    "image": "../showcase/bronde/cgbronde04.jpg",
+    "image": "../img/showcase/bronde/cgbronde04.jpg",
     "categories": [
  "Profundidad", "Crecimiento corto"
     ],
@@ -195,7 +195,7 @@
   },
 {
     "title": "Bronde",
-    "image": "../showcase/bronde/cgbronde05.jpg",
+    "image": "../img/showcase/bronde/cgbronde05.jpg",
     "categories": [
    "Crecimiento largo"
     ],
@@ -203,7 +203,7 @@
   },
 {
     "title": "Bronde",
-    "image": "../showcase/bronde/cgbronde06.jpg",
+    "image": "../img/showcase/bronde/cgbronde06.jpg",
     "categories": [
       "Saturado"
     ],
@@ -211,7 +211,7 @@
   },
 {
     "title": "Bronde",
-    "image": "../showcase/bronde/cgbronde07.jpg",
+    "image": "../img/showcase/bronde/cgbronde07.jpg",
     "categories": [
     "Crecimiento largo"
     ],
@@ -219,7 +219,7 @@
   },
 {
     "title": "Bronde",
-    "image": "../showcase/bronde/cgbronde08.jpg",
+    "image": "../img/showcase/bronde/cgbronde08.jpg",
     "categories": [
       "Saturado","Profundidad"
     ],
@@ -227,7 +227,7 @@
   },
 {
     "title": "Bronde",
-    "image": "../showcase/bronde/cgbronde09.jpg",
+    "image": "../img/showcase/bronde/cgbronde09.jpg",
     "categories": [
       "Saturado", "Crecimiento corto"
     ],
@@ -235,7 +235,7 @@
   },
 {
     "title": "Bronde",
-    "image": "../showcase/bronde/cgbronde10.jpg",
+    "image": "../img/showcase/bronde/cgbronde10.jpg",
     "categories": [
    "Profundidad"
     ],
@@ -245,7 +245,7 @@
 
 {
     "title": "Brunette",
-    "image": "../showcase/brunette/cgbrunette01.jpg",
+    "image": "../img/showcase/brunette/cgbrunette01.jpg",
     "categories": [
       "Saturado",   "Crecimiento largo"
     ],
@@ -255,7 +255,7 @@
 
 {
     "title": "Brunette",
-    "image": "../showcase/brunette/cgbrunette02.jpg",
+    "image": "../img/showcase/brunette/cgbrunette02.jpg",
     "categories": [
      "Profundidad"
     ],
@@ -265,7 +265,7 @@
 
 {
     "title": "Brunette",
-    "image": "../showcase/brunette/cgbrunette03.jpg",
+    "image": "../img/showcase/brunette/cgbrunette03.jpg",
     "categories": [
       "Saturado", "Crecimiento corto"
     ],
@@ -275,7 +275,7 @@
 
 {
     "title": "Brunette",
-    "image": "../showcase/brunette/cgbrunette04.jpg",
+    "image": "../img/showcase/brunette/cgbrunette04.jpg",
     "categories": [
       "Saturado","Profundidad"
     ],
@@ -285,7 +285,7 @@
 
 {
     "title": "Brunette",
-    "image": "../showcase/brunette/cgbrunette05.jpg",
+    "image": "../img/showcase/brunette/cgbrunette05.jpg",
     "categories": [
       "Crecimiento corto"
     ],
@@ -295,7 +295,7 @@
 
 {
     "title": "Brunette",
-    "image": "../showcase/brunette/cgbrunette06.jpg",
+    "image": "../img/showcase/brunette/cgbrunette06.jpg",
     "categories": [
       "Saturado"
     ],
@@ -305,7 +305,7 @@
 
 {
     "title": "Brunette",
-    "image": "../showcase/brunette/cgbrunette07.jpg",
+    "image": "../img/showcase/brunette/cgbrunette07.jpg",
     "categories": [
       "Saturado","Profundidad"
     ],
@@ -315,7 +315,7 @@
 
 {
     "title": "Brunette",
-    "image": "../showcase/brunette/cgbrunette08.jpg",
+    "image": "../img/showcase/brunette/cgbrunette08.jpg",
     "categories": [
       "Saturado"
     ],
@@ -325,7 +325,7 @@
 
 {
     "title": "Brunette",
-    "image": "../showcase/brunette/cgbrunette09.jpg",
+    "image": "../img/showcase/brunette/cgbrunette09.jpg",
     "categories": [
       "Crecimiento largo"
     ],
@@ -335,7 +335,7 @@
 
 {
     "title": "Brunette",
-    "image": "../showcase/brunette/cgbrunette10.jpg",
+    "image": "../img/showcase/brunette/cgbrunette10.jpg",
     "categories": [
       "Saturado"
     ],
@@ -346,7 +346,7 @@
 
 {
     "title": "Red Copperhead",
-    "image": "../showcase/red-copperhead/cgredcopperhead01.jpg",
+    "image": "../img/showcase/red-copperhead/cgredcopperhead01.jpg",
     "categories": [
       "Saturado", "Profundidad"
     ],
@@ -354,7 +354,7 @@
   },
 {
     "title": "Red Copperhead",
-    "image": "../showcase/red-copperhead/cgredcopperhead02.jpg",
+    "image": "../img/showcase/red-copperhead/cgredcopperhead02.jpg",
     "categories": [
       "Saturado"
     ],
@@ -362,7 +362,7 @@
   },
 {
     "title": "Red Copperhead",
-    "image": "../showcase/red-copperhead/cgredcopperhead03.jpg",
+    "image": "../img/showcase/red-copperhead/cgredcopperhead03.jpg",
     "categories": [
        "Crecimiento largo"
     ],
@@ -370,7 +370,7 @@
   },
 {
     "title": "Red Copperhead",
-    "image": "../showcase/red-copperhead/cgredcopperhead04.jpg",
+    "image": "../img/showcase/red-copperhead/cgredcopperhead04.jpg",
     "categories": [
      "Profundidad"
     ],
@@ -378,7 +378,7 @@
   },
 {
     "title": "Red Copperhead",
-    "image": "../showcase/red-copperhead/cgredcopperhead05.jpg",
+    "image": "../img/showcase/red-copperhead/cgredcopperhead05.jpg",
     "categories": [
       "Saturado"
     ],
@@ -386,7 +386,7 @@
   },
 {
     "title": "Red Copperhead",
-    "image": "../showcase/red-copperhead/cgredcopperhead06.jpg",
+    "image": "../img/showcase/red-copperhead/cgredcopperhead06.jpg",
     "categories": [
       "Saturado"
     ],
@@ -394,7 +394,7 @@
   },
 {
     "title": "Red Copperhead",
-    "image": "../showcase/red-copperhead/cgredcopperhead07.jpg",
+    "image": "../img/showcase/red-copperhead/cgredcopperhead07.jpg",
     "categories": [
       "Saturado"
     ],
@@ -402,7 +402,7 @@
   },
 {
     "title": "Red Copperhead",
-    "image": "../showcase/red-copperhead/cgredcopperhead08.jpg",
+    "image": "../img/showcase/red-copperhead/cgredcopperhead08.jpg",
     "categories": [
          "Crecimiento largo"
     ],
@@ -410,7 +410,7 @@
   },
 {
     "title": "Red Copperhead",
-    "image": "../showcase/red-copperhead/cgredcopperhead09.jpg",
+    "image": "../img/showcase/red-copperhead/cgredcopperhead09.jpg",
     "categories": [
         "Crecimiento corto"
     ],
@@ -418,7 +418,7 @@
   },
 {
     "title": "Red Copperhead",
-    "image": "../showcase/red-copperhead/cgredcopperhead10.jpg",
+    "image": "../img/showcase/red-copperhead/cgredcopperhead10.jpg",
     "categories": [
       "Saturado"
     ],
