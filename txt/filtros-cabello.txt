@@ -1,0 +1,429 @@
+[
+  {
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde01.jpg",
+    "categories": [
+      "Crecimiento largo"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde02.jpg",
+    "categories": [
+  "Profundidad"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde03.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde04.jpg",
+    "categories": [
+  "Crecimiento corto"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde05.jpg",
+    "categories": [
+      "Profundidad"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde06.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde07.jpg",
+    "categories": [
+      "Saturado", "Crecimiento largo"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde08.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde09.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde10.jpg",
+    "categories": [
+     "Crecimiento largo"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde11.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde12.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde13.jpg",
+    "categories": [
+      "Saturado", "Crecimiento corto"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde14.jpg",
+    "categories": [
+      "Crecimiento largo"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde15.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde16.jpg",
+    "categories": [
+      "Saturado", "Crecimiento corto"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde17.jpg",
+    "categories": [
+     "Profundidad"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde18.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde19.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Blondie"
+  },
+{
+    "title": "Blonde",
+    "image": "http://claudiagalindo.mx/showcase/blonde/cgblonde20.jpg",
+    "categories": [
+    "Profundidad"
+    ],
+    "level": "Blondie"
+  },
+
+
+{
+    "title": "Bronde",
+    "image": "http://claudiagalindo.mx/showcase/bronde/cgbronde01.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Bronde"
+  },
+{
+    "title": "Bronde",
+    "image": "http://claudiagalindo.mx/showcase/bronde/cgbronde02.jpg",
+    "categories": [
+"Profundidad"
+    ],
+    "level": "Bronde"
+  },
+{
+    "title": "Bronde",
+    "image": "http://claudiagalindo.mx/showcase/bronde/cgbronde03.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Bronde"
+  },
+{
+    "title": "Bronde",
+    "image": "http://claudiagalindo.mx/showcase/bronde/cgbronde04.jpg",
+    "categories": [
+ "Profundidad", "Crecimiento corto"
+    ],
+    "level": "Bronde"
+  },
+{
+    "title": "Bronde",
+    "image": "http://claudiagalindo.mx/showcase/bronde/cgbronde05.jpg",
+    "categories": [
+   "Crecimiento largo"
+    ],
+    "level": "Bronde"
+  },
+{
+    "title": "Bronde",
+    "image": "http://claudiagalindo.mx/showcase/bronde/cgbronde06.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Bronde"
+  },
+{
+    "title": "Bronde",
+    "image": "http://claudiagalindo.mx/showcase/bronde/cgbronde07.jpg",
+    "categories": [
+    "Crecimiento largo"
+    ],
+    "level": "Bronde"
+  },
+{
+    "title": "Bronde",
+    "image": "http://claudiagalindo.mx/showcase/bronde/cgbronde08.jpg",
+    "categories": [
+      "Saturado","Profundidad"
+    ],
+    "level": "Bronde"
+  },
+{
+    "title": "Bronde",
+    "image": "http://claudiagalindo.mx/showcase/bronde/cgbronde09.jpg",
+    "categories": [
+      "Saturado", "Crecimiento corto"
+    ],
+    "level": "Bronde"
+  },
+{
+    "title": "Bronde",
+    "image": "http://claudiagalindo.mx/showcase/bronde/cgbronde10.jpg",
+    "categories": [
+   "Profundidad"
+    ],
+    "level": "Bronde"
+  },
+
+
+{
+    "title": "Brunette",
+    "image": "http://claudiagalindo.mx/showcase/brunette/cgbrunette01.jpg",
+    "categories": [
+      "Saturado",   "Crecimiento largo"
+    ],
+    "level": "Brunette"
+  },
+
+
+{
+    "title": "Brunette",
+    "image": "http://claudiagalindo.mx/showcase/brunette/cgbrunette02.jpg",
+    "categories": [
+     "Profundidad"
+    ],
+    "level": "Brunette"
+  },
+
+
+{
+    "title": "Brunette",
+    "image": "http://claudiagalindo.mx/showcase/brunette/cgbrunette03.jpg",
+    "categories": [
+      "Saturado", "Crecimiento corto"
+    ],
+    "level": "Brunette"
+  },
+
+
+{
+    "title": "Brunette",
+    "image": "http://claudiagalindo.mx/showcase/brunette/cgbrunette04.jpg",
+    "categories": [
+      "Saturado","Profundidad"
+    ],
+    "level": "Brunette"
+  },
+
+
+{
+    "title": "Brunette",
+    "image": "http://claudiagalindo.mx/showcase/brunette/cgbrunette05.jpg",
+    "categories": [
+      "Crecimiento corto"
+    ],
+    "level": "Brunette"
+  },
+
+
+{
+    "title": "Brunette",
+    "image": "http://claudiagalindo.mx/showcase/brunette/cgbrunette06.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Brunette"
+  },
+
+
+{
+    "title": "Brunette",
+    "image": "http://claudiagalindo.mx/showcase/brunette/cgbrunette07.jpg",
+    "categories": [
+      "Saturado","Profundidad"
+    ],
+    "level": "Brunette"
+  },
+
+
+{
+    "title": "Brunette",
+    "image": "http://claudiagalindo.mx/showcase/brunette/cgbrunette08.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Brunette"
+  },
+
+
+{
+    "title": "Brunette",
+    "image": "http://claudiagalindo.mx/showcase/brunette/cgbrunette09.jpg",
+    "categories": [
+      "Crecimiento largo"
+    ],
+    "level": "Brunette"
+  },
+
+
+{
+    "title": "Brunette",
+    "image": "http://claudiagalindo.mx/showcase/brunette/cgbrunette10.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Brunette"
+  },
+
+
+
+{
+    "title": "Red Copperhead",
+    "image": "http://claudiagalindo.mx/showcase/red-copperhead/cgredcopperhead01.jpg",
+    "categories": [
+      "Saturado", "Profundidad"
+    ],
+    "level": "Red Copperhead"
+  },
+{
+    "title": "Red Copperhead",
+    "image": "http://claudiagalindo.mx/showcase/red-copperhead/cgredcopperhead02.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Red Copperhead"
+  },
+{
+    "title": "Red Copperhead",
+    "image": "http://claudiagalindo.mx/showcase/red-copperhead/cgredcopperhead03.jpg",
+    "categories": [
+       "Crecimiento largo"
+    ],
+    "level": "Red Copperhead"
+  },
+{
+    "title": "Red Copperhead",
+    "image": "http://claudiagalindo.mx/showcase/red-copperhead/cgredcopperhead04.jpg",
+    "categories": [
+     "Profundidad"
+    ],
+    "level": "Red Copperhead"
+  },
+{
+    "title": "Red Copperhead",
+    "image": "http://claudiagalindo.mx/showcase/red-copperhead/cgredcopperhead05.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Red Copperhead"
+  },
+{
+    "title": "Red Copperhead",
+    "image": "http://claudiagalindo.mx/showcase/red-copperhead/cgredcopperhead06.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Red Copperhead"
+  },
+{
+    "title": "Red Copperhead",
+    "image": "http://claudiagalindo.mx/showcase/red-copperhead/cgredcopperhead07.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Red Copperhead"
+  },
+{
+    "title": "Red Copperhead",
+    "image": "http://claudiagalindo.mx/showcase/red-copperhead/cgredcopperhead08.jpg",
+    "categories": [
+         "Crecimiento largo"
+    ],
+    "level": "Red Copperhead"
+  },
+{
+    "title": "Red Copperhead",
+    "image": "http://claudiagalindo.mx/showcase/red-copperhead/cgredcopperhead09.jpg",
+    "categories": [
+        "Crecimiento corto"
+    ],
+    "level": "Red Copperhead"
+  },
+{
+    "title": "Red Copperhead",
+    "image": "http://claudiagalindo.mx/showcase/red-copperhead/cgredcopperhead10.jpg",
+    "categories": [
+      "Saturado"
+    ],
+    "level": "Red Copperhead"
+  }
+
+
+]
