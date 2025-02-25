@@ -11,7 +11,7 @@ const postCount = document.querySelector("#post-count");
 const noResults = document.querySelector("#no-results");
 
 fetch(
-  "txt/filtros-cabello.txt"
+  "../txt/filtros-cabello.txt"
 ).then(async (response) => {
   postsData = await response.json();
   postsData.map((post) => createPost(post));
