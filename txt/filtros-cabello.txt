@@ -9,7 +9,7 @@
   },
 {
     "title": "Blonde",
-    "image": "../img/img/showcase/blonde/cgblonde02.jpg",
+    "image": "../img/showcase/blonde/cgblonde02.jpg",
     "categories": [
   "Profundidad"
     ],
