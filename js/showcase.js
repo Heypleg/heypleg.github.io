@@ -37,7 +37,7 @@ const createPost = (postData) => {
   const post = document.createElement("div");
   post.className = "post";
   post.innerHTML = `
-      <a class="post-preview" href="${link}" target="_blank">
+      <a class="post-preview" href="${image}" target="_blank">
         <img class="post-image" src="${image}">
       </a>
       <div class="post-content">
